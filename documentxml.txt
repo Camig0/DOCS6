@@ -1,0 +1,12 @@
+<list>
+    <li>some list item1</li>
+    <li>some list item2</li>
+    <li>some list item3</li>
+    <li>some list item4</li>
+</list>
+<p bold=false, italic=false, underline=True, highlight=somehighlight, color=black, font_size=20>
+    some paragraph
+    <t bold=True, color=red, font_size=40>
+     123123123
+    </t>
+</p>
